@@ -338,7 +338,7 @@ h3.section-title {
 .two-col p { color: var(--c-text-soft); font-size: var(--body); }
 
 /* ============================== MEDIA / IMAGES ============================== */
-.media-rounded { border-radius: 10px; overflow: hidden; box-shadow: 0 10px 30px -8px rgba(0,0,0,0.18); }
+.media-rounded { border-radius: 10px; overflow: hidden; }
 .media-rounded img { width: 100%; display: block; }
 
 .media-plain img { width: 100%; display: block; border-radius: 10px; }
